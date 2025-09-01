@@ -1,4 +1,4 @@
-# Digital-Forensics-Data-Theft-Investigation
+# Digital Forensics Data Theft Investigation
 ![KQL](https://img.shields.io/badge/KQL-red)
 
 
